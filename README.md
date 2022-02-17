@@ -5,4 +5,5 @@ Scripts to process e.g. conference proceedings from fulltext pdf file
 * run grobid to extract metadata
 * create xml file for upload to INSPIRE via DESY
 
+Work in progress.
 Detailed description to follow
